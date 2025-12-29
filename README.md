@@ -5,7 +5,8 @@ e repositórios remotos com GitHub.
 
 Além disso vamos trabalhar com GitFlow ao final do curso e VSCode.
 
-Confira tudo o que temos no YouTube. É grátis!
+Confira tudo o que temos no YouTube. É grátis! Segue o link:
+[Curso Link 2025](https://youtube.com/@teomewhy)
 
 --------------
 
