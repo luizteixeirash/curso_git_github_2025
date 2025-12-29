@@ -6,3 +6,9 @@ e repositórios remotos com GitHub.
 Além disso vamos trabalhar com GitFlow ao final do curso e VSCode.
 
 Confira tudo o que temos no YouTube. É grátis!
+
+--------------
+
+Pessoas participantes:
+
+Téo
